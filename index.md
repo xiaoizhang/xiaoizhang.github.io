@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+ $$ a^2+b_2=c^2 $$
 - Bulleted
 - List
 
